@@ -1,0 +1,20 @@
+.logo {
+    background: left / cover url('https://scontent.ftun1-2.fna.fbcdn.net/v/t39.30808-6/269761858_115648764297503_8154095840361062295_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=RoCucHQhNvEAX8hcPHu&_nc_ht=scontent.ftun1-2.fna&oh=00_AfC3MI6vmmsshafk2rraaXGnaElRkeBsNsbvXYHPSlHrdg&oe=65CA96D9');
+    display: flex;
+    height: 650px;
+    align-items: top;
+    justify-content: right;
+    font-variant-position:
+      bold calc(1em + 2 * (150vw - 150px) / 100) 'Dancing Script',
+      fantasy;
+    color: #ff0000;
+    text-shadow: #000 20px 15px 0.2rem;
+  }
+  
+  body > h1 {
+    margin-left: 30px;
+  }
+  
+  body > time {
+    font: italic 0.7rem sans-serif;
+  }
